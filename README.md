@@ -4,9 +4,9 @@
 
 ![接線圖](https://github.com/nethawkChen/hardware-pwm-breathe/blob/main/img/hardward-pwm-breathe_bb.jpg)
 
--主板：Raspberry pi 3B+
--環境：Raspberry pi OS
--語言：.Net 6
+- 主板：Raspberry pi 3B+
+- 環境：Raspberry pi OS
+- 語言：.Net 6
 
 
 參考  
