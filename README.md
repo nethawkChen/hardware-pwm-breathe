@@ -1,3 +1,5 @@
+[Raspberry pi - Hardware PWM 呼吸燈 - .Net 開發](https://www.dotblogs.com.tw/nethawk/2022/11/25/000356)
+
 # hardware pwm 呼吸燈
 
 使用 Raspberry pi 上的硬體 PWM 必須要做一些設定 
