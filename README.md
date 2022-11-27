@@ -4,5 +4,9 @@
 
 ![接線圖](https://github.com/nethawkChen/hardware-pwm-breathe/blob/main/img/hardward-pwm-breathe_bb.jpg)
 
+主板：Raspberry pi 3B+
+環境：Raspberry pi OS
+語言：.Net 6
+
 參考  
 [Enabling Hardware PWM on Raspberry Pi](https://github.com/dotnet/iot/blob/main/Documentation/raspi-pwm.md)
